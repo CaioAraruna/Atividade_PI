@@ -1,0 +1,29 @@
+#caixa_a{
+    height: 100%;
+    width: 100%;
+    background-color: green;
+}
+
+#caixa_b{
+    height: 100px;
+    width: 33.3%;
+    background-color: yellow;   
+}
+
+#caixa_c{
+    height: 50px;
+    width: 50%;
+    background-color: blue;
+}
+
+#caixa_d{
+    height: 25px;
+    width: 50%;
+    background-color: black;
+}
+
+#caixa_e{
+    height: 10px;
+    width: 50%;
+    background-color: pink;
+}
